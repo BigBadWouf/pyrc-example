@@ -1,0 +1,3 @@
+[submodule "pyrc"]
+	path = pyrc
+	url = git@github.com:BigBadWouf/pyrc.git
